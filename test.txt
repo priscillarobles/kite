@@ -1,3 +1,4 @@
+//change this method into 2 method return individually name and lastName
 public static String fullName(String fullName){
   return fullName;
 }
