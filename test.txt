@@ -1,3 +1,4 @@
+//Changes are done
 //method to call name
 public static String name(String name){
   return name;
