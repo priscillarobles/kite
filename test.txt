@@ -1,10 +1,9 @@
 //method to call name
-
 public static String name(String name){
   return name;
 }
-//method to call name
-public static String name(String lastName){
+//method to call lastName
+public static String lastName(String lastName){
   return lastName;
 }
 
